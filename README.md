@@ -1,4 +1,4 @@
-## Backend Developer (Java, Spring-Boot, AWS)
+## Backend Developer (Java, Spring-Boot, MySQL, AWS)
 
 <!--
 **jaenyeong/jaenyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
