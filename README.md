@@ -2,6 +2,7 @@
 * Java(Kotlin)
 * Spring(Boot)
 * MySQL
+* Docker/K8S
 * AWS
 
 <!--
