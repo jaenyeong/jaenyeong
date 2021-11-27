@@ -1,5 +1,5 @@
 ## Backend Developer
-* Java(Kotlin)
+* Kotlin(Java)
 * Spring(Boot)
 * MySQL
 * Docker/K8S
