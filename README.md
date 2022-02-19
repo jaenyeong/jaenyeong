@@ -1,8 +1,8 @@
 ## Backend Developer
-* Kotlin(Java)
-* Spring(Boot)
-* MySQL
-* Docker/K8S
+* Kotlin(1.5), Java(11)
+* Spring(Boot) - JPA, JUnit
+* MySQL, MongoDB
+* Docker, K8s
 * AWS
 
 <!--
