@@ -1,10 +1,11 @@
 ## Backend Developer
-* Kotlin(1.5), Java(11)
-* Spring(Boot) - JPA, JUnit
-* MySQL, MongoDB
+* Kotlin, Java
+* Spring(Boot) - JPA(+MyBatis), JUnit
+* MySQL
 * Docker, K8s
-* AWS
 * Kafka
+* AWS
+  * EC2, ALB(ELB), CloudFront, S3, RDS
 
 <!--
 **jaenyeong/jaenyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
