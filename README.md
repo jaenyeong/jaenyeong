@@ -1,12 +1,12 @@
 ## Backend Developer
-* <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
-* Kotlin, Java
+* <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-7F52FF?style=flat&logo=Java&logoColor=white"/>
 * Spring(Boot) - JPA(+MyBatis), JUnit
 * MySQL
 * Docker, K8s
 * Kafka
 * AWS
   * EC2, ALB(ELB), CloudFront, S3, RDS
+* <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 <!--
 **jaenyeong/jaenyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
