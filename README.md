@@ -1,4 +1,5 @@
 ## Backend Developer
+* <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 * Kotlin, Java
 * Spring(Boot) - JPA(+MyBatis), JUnit
 * MySQL
