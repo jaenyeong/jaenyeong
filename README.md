@@ -9,7 +9,8 @@
 * ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white)
 * ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 * ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white)
+* ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white) 
+* ![Slack](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=Slack&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 <!--
 **jaenyeong/jaenyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
