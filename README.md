@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaenyeong%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-* ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?&style=flatlogo=Java&logoColor=white)
+* ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-A566FF?&style=flat&logo=Java&logoColor=white)
 * ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 * ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 * ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=Kubernetes&logoColor=white)
