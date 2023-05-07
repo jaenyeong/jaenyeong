@@ -1,4 +1,8 @@
-## Backend Developer
+## Introduce
+* E-mail : jaenyeong.dev@gmail.com
+* Resume : [이력서](https://jaenyeong.github.io/about/)
+
+## Backend Programmer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaenyeong%2Fhit-counter)](https://hits.seeyoufarm.com)
 
